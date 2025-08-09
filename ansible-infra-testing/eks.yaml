@@ -12,3 +12,4 @@ managedNodeGroups:
     spot: true
 
     # eksctl create cluster --config-file=eks.yaml
+    # eksctl delete cluster --name roboshop --region us-east-1
